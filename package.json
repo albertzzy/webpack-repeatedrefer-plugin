@@ -1,0 +1,30 @@
+{
+  "name": "webpack-repeatedrefer-plugin",
+  "version": "1.0.0",
+  "description": "log repeatedly bundled modules",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertzzy/webpack-repeatedrefer-plugin.git"
+  },
+  "author": "albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertzzy/webpack-repeatedrefer-plugin/issues"
+  },
+  "homepage": "https://github.com/albertzzy/webpack-repeatedrefer-plugin#readme",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.4.2"
+  }
+}
