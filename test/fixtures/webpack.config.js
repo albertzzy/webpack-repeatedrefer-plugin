@@ -1,7 +1,7 @@
 const path = require('path')
 
 const webpack = require('webpack');
-const rrp = require('webpack-repeatedrefer-plugin');
+const rrp = require('../../lib/index.js');
 
 module.exports = {
   entry: {
